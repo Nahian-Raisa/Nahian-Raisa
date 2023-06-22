@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nahian-Raisa
-- 👀 I’m interested in web development,data science
-- 🌱 I’m currently learning  web development ,data science 
-- 💞️ I’m looking to collaborate on projects on data science,web development
 - 📫 How to reach me nahianraisa71@gmail.com
 
 <!---
